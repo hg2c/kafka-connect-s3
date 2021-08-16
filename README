@@ -1,0 +1,12 @@
+# JDBC Sink Connector
+
+https://www.confluent.io/hub/confluentinc/kafka-connect-avro-converter
+https://d1i4a15mxbxib1.cloudfront.net/api/plugins/confluentinc/kafka-connect-avro-converter/versions/6.2.0/confluentinc-kafka-connect-avro-converter-6.2.0.zip
+
+https://www.confluent.io/hub/confluentinc/kafka-connect-jdbc
+https://d1i4a15mxbxib1.cloudfront.net/api/plugins/confluentinc/kafka-connect-jdbc/versions/10.2.1/confluentinc-kafka-connect-jdbc-10.2.1.zip
+
+https://mariadb.com/downloads/#connectors
+https://dlm.mariadb.com/1785291/connectors/java/connector-java-2.7.4/mariadb-java-client-2.7.4.jar
+
+https://repo1.maven.org/maven2/io/debezium/debezium-connector-mysql/1.6.1.Final/debezium-connector-mysql-1.6.1.Final-plugin.tar.gz
